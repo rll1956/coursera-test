@@ -15,14 +15,6 @@ h1 {
 }
 
 p {
-//  border: 1px solid black;
-//  width: 90%;
-//  height: 150px;
-//  margin-right: auto;
-//  margin-left: auto;
-//  font-family: Helvetica;
-//  color: white;
-
 }
 
 footer {
@@ -39,8 +31,6 @@ footer {
   position: relative;
   margin: 10px 10px 10px 10px;
   border: 1px solid black;
-//  width: 90%;
-//  height: 90%;
 }
 
 .columnBody {
@@ -56,19 +46,17 @@ footer {
   position: absolute;
   top: -1px;
   right: -1px;
-//  clear: right;
-//  float: right; 
 }
 
 .sectionTitleText {
   text-align: center;
   font-family: Helvetica;
+  font-size: 125%;
   font-weight: bold;
   margin-top: 5px;
 }
 
 .row {
-//  width: 100%;
 }
 
 /**********Desktop view **********/
